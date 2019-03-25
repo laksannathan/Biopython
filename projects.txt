@@ -1,0 +1,88 @@
+[HIV] Example of quantitative analysis of natural selection
+=========================================================== In 1983 the
+infectious agent responsible of the well-known disease of Acquired Immune
+Deficiency Syndrome (AIDS) was identified. It was called Human
+Immunodeficiency Virus (HIV). Despite this discovery of fundamental
+importance, at the present there is no cure for this disease and no effective
+vaccine against HIV infection. The main difficulty is that our immune system
+as well as any drugs cannot deal with the inner nature of this virus that
+evolves constantly and rapidly. The genome of HIV has been sequenced hundreds
+of time since the eighties, so it is possible to study the differences between
+many individual genomes. This can help us to gain a general understanding of
+how virus evolves. In particular there are specific regions of its proteins
+that are recognized and attacked by our immune system: these regions mostly
+show the signature of adaptive evolution of the changing virus. Other regions
+instead remain invariant having important biological functions and not being
+involved in interactions with the immune system. In this example a genome wide
+analysis of natural selection in HIV is performed.
+
+
+[HUMANS] Example of sequence comparison by genetic distance
+=========================================================== The discovery of
+Neanderthal skeletons in various parts of Europe raised many questions about
+human origis, among them the issue of our relation with these species. Now
+many questions about human and primate origins have been answered by the study
+of the mitochondrial genome and in particular of the hypervariable regions.
+These regions presents high sequence variability among humans, therefore they
+are ideal for studying the relationships among individuals. There are two
+hypervariable regions called HVR-I and HVR-II.
+
+
+[OLFACTORYRECEPTORS] Example of use of HMM in sequence analysis
+=============================================================== Proteins are
+composed of a sequence of amino acids. These aminoacids have various atomic
+compositions and structures that lead to different properties. The first part
+of this demo focuses on the property of hydrophobicity.
+
+Olfactory receptors (OR) are part of a family of proteins that have 7
+transmembrane regions. That is they pass through the cell membrane 7 times.
+The interior of the cell membrane is hydrophobic while both the exterior and
+interior of the cell are hydrophilic. Therefore, the regions of the protein
+that pass through the membrane should contain mostly hydrophobic amino acids
+while the portion outside of the membrane should be mostly hydrophilic.
+
+
+[DAUER] Example of gene expression profile analysis
+=================================================== It is known that gene
+expression in eukaryotes is regulated by transcription factor (TF) through
+binding to a short piece of DNA in the upstream region. With the emerging of
+large-scale gene expression and genomic sequence studies, one could identify
+by which transcription factors a certain gene is regulated and predict how the
+gene will act subjected to change of environment, based on the presence of TF
+binding sites in its upstream sequence. With the gene expression data, genes
+can be clustered on the basis of the similarity of their expression profiles
+and these clusters are likely to contain genes that are regulated by the same
+transcription factors. Searches for cis-regulatory elements can then be
+undertaken in the upstream regions of the clustered genes. In this example we
+identify the cis-regulatory elements present in the genes responsible to the
+dauer exit process in Caenorhabditis elegans. C. elegans is a small soil
+nematode found in temperate regions. The dauer is an important developmental
+transition in C. elegans that exhibits increased longevity, stress resistance,
+altered metabolism compared with normal worms. The transition from the dauer
+state to the non-dauer state is performed here by detecting significant change
+of expression profiles of genes between the two states. The temporal
+expression of genes are measured by microarray at 10 to 12 time points every
+one or two hours. In detail we have the expression profile of 1984 genes
+within 12 hours, sampled approximately once an hour.
+
+
+[ICEMAN] Example of phylogenetic analysis
+========================================= Ötzi the Iceman is a well-preserved
+natural mummy of a man frozen for about 5300 years and found in 1991 in a
+glacier of the Ötztal Alps, near the border between Austria and Italy.
+Recently researchers found interesting informations about it from the exam of
+mitochondrial DNA taken from cells of the iceman intestine. In particular from
+phylogenetic analysis they made some hypotesis about its mitochondrial
+haplogroup. A haplogroup is defined by set of characteristic mutations on the
+mitochondrial genome. Therefore it can be traced along a person’s maternal
+line and it can be used to group populations by genetic features. The famous
+book “The Seven Daughters of Eve” by Bryan Sykes describes the classification
+of all modern humans into into mitochondrial haplogroups and links each
+haplogroup to a specific prehistoric woman (“clan mothers”). In fact the
+branches of the mtDNA tree (composed of groups of people with related
+haplogroups) are continent-specific. In this example, we analyze the
+statistical properties and perform phylogenetic analysis of the mtDNA of the
+iceman to investigate the relationship with modern humans of different
+geographical locations and to determine useful information about its
+haplogroup.
+
