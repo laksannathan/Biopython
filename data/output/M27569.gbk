@@ -1,0 +1,36 @@
+LOCUS       M27569                   771 bp    DNA     linear   UNA 04-AUG-1993
+DEFINITION  Figure 3. 770-bp sequence of part of IBV cDNA clone C5 136.
+ACCESSION   M27569
+VERSION     M27569.1
+KEYWORDS    .
+SOURCE      unclassified
+  ORGANISM  unclassified
+            unclassified.
+REFERENCE   1  (bases 1 to 771)
+  AUTHORS   Boursnell,M.E. and Brown,T.D.
+  TITLE     sequencing of coronavirus ibv genomic rna: a 195-base open reading
+            frame encoded by mrna b
+  JOURNAL   Gene 29, 87-92 (1984)
+  MEDLINE   85028444
+COMMENT     [WARNING] On Feb 8, 2002 this sequence was replaced by M95169.1.
+FEATURES             Location/Qualifiers
+     source          1..771
+                     /organism="unclassified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:12908"
+ORIGIN      
+        1 tacctttcaa gtagataatg gaaaagtcta ctacgaagga acaccagttt tccaaaaagg
+       61 ttgttgtagg atgtggtcca attataagaa agaataattg aaccacctac tacacttatt
+      121 tttataagag gtgttttact taacaaaaac ttaacaaata cggacgatga aatggctgac
+      181 tagttttgga agagcagtta tttcttgtta taaatcccta ctattaactc aacttagagt
+      241 gttagatagg ttaattttag atcacggact actacgcgtt ttaacgtgta gtaggcgcgt
+      301 gcttttagtt caattagatt tagtttatag gttggcgtat acgcccaccc aatcgctggc
+      361 atgaataata gtaaagataa tccttttcgc ggagcaatag caagaaaagc tcgaatttat
+      421 ctgagagaag gattagattg tgtttacttt cttaacaaag caggacaagc agagccttgt
+      481 cccgcgtgta cctctctagt attccaaggg aaaacttgtg aggaacacat acataataat
+      541 aatcttttgt catggcaagc ggtaaagcag ctggaaaaac agacgcccca gcgccagtca
+      601 ttaaactagg aggaccaaaa ccacctaaag tcggttcttc tggaaatgca tcttggtttc
+      661 aagcaataaa agccaagaag ttaaatacac ctccgcccaa gtttgaaggt agcggtgttc
+      721 ctgataacga aaacattaag ccaagccagc aacatggata ctggagacgc c
+//
+
