@@ -1,6 +1,8 @@
 import re
 
-with open("sub44.txt") as f:
+mat = "sub44.txt"
+
+with open(mat) as f:
     content = f.readlines()
 
 basen = content[0].replace(" ", "").replace("\n", "") 
