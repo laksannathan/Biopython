@@ -1,0 +1,20 @@
+import re
+
+with open("sub44.txt") as f:
+    content = f.readlines()
+
+basen = content[0].replace(" ", "").replace("\n", "") 
+del content[0]
+
+keys = []
+for i in basen:
+  for j in basen:
+    keys.append((i,j))
+
+scores = re.sub('[a-zA-Z]', '',
+  ' '.join(content).replace("\n", "").replace("[a-zA-Z]",""))
+
+values = [int(val) for val in scores.split()]
+
+d = dict(zip(keys, values))
+print(d)
